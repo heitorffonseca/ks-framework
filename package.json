@@ -4,5 +4,17 @@
   "description": "framework that complements the bootstrap",
   "keywords": [],
   "author": "Kingly Studio",
-  "license": "ISC"
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heitorffonseca/ks-framework.git"
+  },
+  "bugs": {
+    "url": "https://github.com/heitorffonseca/ks-framework/issues"
+  },
+  "homepage": "https://github.com/heitorffonseca/ks-framework#readme"
 }
