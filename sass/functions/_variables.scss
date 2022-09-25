@@ -1,0 +1,26 @@
+$ks-prefix: "ks"; // prevent conflict
+
+$ks-breakpoint-mobile-md: 375px;
+$ks-breakpoint-mobile-xl: 425px;
+$ks-breakpoint-tablet: 768px;
+$ks-breakpoint-desktop: 1024px;
+$ks-breakpoint-desktop-md: 1440px;
+$ks-breakpoint-desktop-xl: 2560px;
+
+$ks-font-sizes: ();
+$ks-font-weights: (
+  "thin": 100,
+  "extra-light": 200,
+  "light": 300,
+  "normal": 400,
+  "medium": 500,
+  "semi-bold": 600,
+  "bold": 700,
+  "extra-bold": 800,
+  "black": 900,
+);
+
+$ks-border-sizes: 100;
+$ks-border-rays: 100; // radius
+
+$ks-widths: 100;
