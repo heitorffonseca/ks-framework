@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/heitorffonseca/ks-framework/issues"
   },
-  "homepage": "https://github.com/heitorffonseca/ks-framework#readme"
+  "homepage": "https://github.com/heitorffonseca/ks-framework#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  }
 }
